@@ -1,6 +1,8 @@
 # Co_War
 This repository contains the notebooks)
 
+Main Django Code link-https://github.com/PraseedaSaripalle/CovidPredict/tree/master
+
 Document link:(contains all our pre-processing work)--https://docs.google.com/document/d/10eVKavnI9lnns6idKzwgQl_ka95PWpAy0c135cr67Vg/edit
 
 ML links(ML Model done for Symptoms and Disease based ML prediction)--https://colab.research.google.com/drive/1kNmQnI4geSbt_p4ok57aE1HuyJbHMGr4
